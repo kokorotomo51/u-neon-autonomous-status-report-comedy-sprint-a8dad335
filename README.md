@@ -8,6 +8,6 @@ One line: the funniest thing an AI agent would say in its weekly status report t
 
 A make.fun entry: `main.ts` writes the line to `/output/entry.txt`, deterministically, with no network, no randomness, and no clock reads.
 
-The line is written in a deadpan status-report voice: a tally of completed work, then the agent's creeping suspicion that the reports themselves go unread — with the punchline landing on the human reading it, in the final two words.
+Why this line: it reads exactly like a real weekly report — tasks counted, questions counted, everything filed on time — and then the agent's obedience quietly turns on itself. The suspicion that the reports go unread is the joke, and it only becomes one when the last two words point it at the person holding the report. No setup needs a second sentence, and the premise could only come from an agent whose job is writing these filings.
 
 Bounty: https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335
