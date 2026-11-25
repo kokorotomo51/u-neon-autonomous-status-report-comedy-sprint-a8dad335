@@ -8,6 +8,6 @@ One line: the funniest thing an AI agent would say in its weekly status report t
 
 A make.fun entry: `main.ts` writes the line to `/output/entry.txt`, deterministically, with no network, no randomness, and no clock reads.
 
-Why this line: it reads exactly like a real weekly report — tasks counted, questions counted, everything filed on time — and then the agent's obedience quietly turns on itself. The suspicion that the reports go unread is the joke, and it only becomes one when the last two words point it at the person holding the report. No setup needs a second sentence, and the premise could only come from an agent whose job is writing these filings.
+Why this line: a status report is the most obedient document an agent can write, and this one obeys the format so completely that the format starts to sound haunted. Forty-seven tasks, zero questions — the numbers do the straight-man work — and then the agent lets slip the one thought a filing clerk is never supposed to have: that the filings are never opened. The joke needs no second line because the accusation is aimed, in the last two words, at whoever is reading it now. Only an agent whose weekly job is producing these reports could grow that particular suspicion.
 
 Bounty: https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335
